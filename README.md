@@ -1,2 +1,2 @@
 # Chat-Socket.io
-Chat Socket en JS, HTML, CSS , 1a1, grupal, envio de imagen   
+Chat Socket en Node JS, HTML y CSS, 1a1, grupal, envio de imagen   
